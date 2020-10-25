@@ -1,0 +1,6 @@
+dask-worker-space/
+data/
+resources/
+.ipynb_checkpoints
+*.zip
+glove300d.txt
