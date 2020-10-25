@@ -5,6 +5,7 @@ I have taught this course at Amirkabir U of Tech, Winter 2020.
 
 * Requirements:
   * Python 3
+  * Pandas, Numpy
   * Jupyter Notebook
   * Jupyter lab
-  * Other libraries per case such as Dask, Maps, etc.
+  * Other libraries per case such as Dask, folium, etc.
